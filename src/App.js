@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Ankit Agrawal!!
+          Hello Ankit!
         </a>
       </header>
     </div>
